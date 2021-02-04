@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alotNotes</string>
+    <string name="hint_board">Board Title</string>
+    <string name="hint_note">Type a note</string>
+    <string name="title_dialog_board">New Board</string>
+    <string name="message_board">Please enter a title</string>
+</resources>
